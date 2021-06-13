@@ -1,2 +1,2 @@
-# flowers-recognition
+# flowersSpecies
 Idetifying Flower Species using Deep Learning and PyTorch
